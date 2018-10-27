@@ -1,7 +1,7 @@
 {
-  "name": "useform",
+  "name": "formok",
   "version": "0.0.0",
-  "description": "Simple React forms using hooks",
+  "description": "Simple React forms inspired by formik, but using hooks",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

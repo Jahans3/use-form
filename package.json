@@ -1,5 +1,5 @@
 {
-  "name": "use-form",
+  "name": "useform",
   "version": "0.0.0",
   "description": "Simple React forms using hooks",
   "main": "index.js",

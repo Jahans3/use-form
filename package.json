@@ -1,0 +1,11 @@
+{
+  "name": "use-form",
+  "version": "0.0.0",
+  "description": "Simple React forms using hooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
